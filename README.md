@@ -1,1 +1,1 @@
-# 👋🏼 Hey, I'm Dmitriy.
+# 👋 Hey, I'm Dmitriy.
