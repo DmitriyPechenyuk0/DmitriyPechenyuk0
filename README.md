@@ -5,7 +5,7 @@ I'm a fourth year Full-Stack | Mobile developer student at WorldIT Academy.
  
 ## 💻 Tech Stack & Tools
 
-### Web Development
+### 🌐 Web Development
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40" alt="Python" title="Python" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" width="40" alt="Django" title="Django" />
@@ -22,7 +22,7 @@ I'm a fourth year Full-Stack | Mobile developer student at WorldIT Academy.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original-wordmark.svg" height="40" width="40" alt="jquery" />
 </div>
 
-### DataBases | ORM
+### ⛁ DataBases | ORM
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original-wordmark.svg" height="40" width="40" alt="prisma" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg"  height="40" width="40" alt="sqlite" />
