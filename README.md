@@ -20,6 +20,8 @@ I'm a fourth year Full-Stack | Mobile developer student at WorldIT Academy.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" height="40" width="40" alt="express"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="40" alt="React" title="React" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original-wordmark.svg" height="40" width="40" alt="jquery" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original-wordmark.svg" height="40" width="40" alt="three.js" />
+          
 </div>
 
 ### ⛁ DataBases | ORM
